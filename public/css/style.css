@@ -1,0 +1,15 @@
+body {
+    font-family:open sans;
+}
+.bg-flatgreen {
+    background: #00cec9;
+}
+.font-flatgreen {
+    color: #00cec9;
+}
+.font-flatlight {
+    color: #FFF;
+}
+.outline-flatgreen {
+    border-color: #00cec9;
+}
